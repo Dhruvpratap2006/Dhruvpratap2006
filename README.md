@@ -1,21 +1,59 @@
-# 💫 About Me:
-👋 Hi, I'm Dhruv Pratap Singh<br>🚀 Aspiring Full-Stack Web Developer (MERN Stack)<br><br>I'm a B.Tech student passionate about web development and problem-solving.<br>I’m consistently improving my skills to become a Full-Stack MERN Developer and build real-world applications.<br><br>🔭 Currently Working On<br><br>Frontend projects using HTML, CSS, and JavaScript<br><br>Practicing Data Structures & Algorithms (DSA) using Java<br><br>Improving code quality and logical thinking<br><br>🌱 Currently Learning<br><br>Advanced CSS (Flexbox, Grid, Responsive Design)<br><br>JavaScript (ES6+)<br><br>Basics of React.js<br><br>Fundamentals of Backend Development (Node.js & Express – upcoming)<br><br>👯 Looking to Collaborate On<br><br>Beginner to intermediate Web Development projects<br><br>MERN stack projects (learning-focused, real-world based)<br><br>Open-source projects suitable for students<br><br>🤝 Looking for Help With<br><br>Backend concepts like APIs, authentication, and databases<br><br>Building end-to-end full-stack applications<br><br>Writing optimized and clean code<br><br>💬 Ask Me About<br><br>HTML & CSS fundamentals<br><br>Java basics and DSA preparation<br><br>Git & GitHub basics for students<br><br>🛠️ Tech Stack<br><br>Languages & Tools I Use / Learn:<br><br>HTML<br><br>CSS<br><br>JavaScript<br><br>Java<br><br>Git & GitHub<br><br>Future Stack (In Progress 🚧):<br><br>React.js<br><br>Node.js<br><br>Express.js<br><br>MongoDB<br><br>🎯 Career Goal<br><br>To become a Full-Stack Web Developer (MERN Stack) and work on impactful real-world products.<br><br>⚡ Fun Fact<br><br>I believe consistency beats motivation, and I upgrade my skills every single day 🚀<br><br>📫 Connect With Me<br><br>GitHub: (You’re already here 😉)<br><br>LinkedIn: https://www.linkedin.com/in/dhruv-pratap-1a3aaa344/
+# 👋 Hi, I'm Dhruv Pratap Singh
 
+### 🎓 B.Tech Student &nbsp;|&nbsp; 🚀 Aspiring MERN Stack Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhruv Pratap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:partapdhruv19@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhruvpratap2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dhruvpratap2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpratap2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhruvpratap2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Passionate about building web applications and solving problems through clean, consistent code.
+Currently strengthening my frontend skills with **React.js** & **Tailwind CSS**, with backend (**Node.js, Express, MongoDB**) up next.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dhruvpratap2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| 💻 Languages | JavaScript · Java · HTML · CSS |
+| ⚛️ Frontend | React.js · Tailwind CSS |
+| 🔧 Tools | Git · GitHub |
+| 📚 Learning | Node.js · Express.js · MongoDB |
+| 💡 DSA | Java |
+
+---
+
+## 🔭 Currently Working On
+
+- Frontend projects using **HTML, CSS & JavaScript**
+- Building UI components with **React.js & Tailwind CSS**
+- Practicing **Data Structures & Algorithms** in Java
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **React.js** (Hooks, Components, State Management)
+- **Tailwind CSS** for rapid UI development
+- Backend basics — **Node.js & Express.js**
+
+---
+
+## 🤝 Open To Collaborate On
+
+- Beginner to intermediate **Web Development** projects
+- **MERN Stack** projects (learning-focused, real-world based)
+- **Open-source** projects suitable for students
+
+---
+
+## 📊 Goal
+
+> 🎯 Become a **Full-Stack MERN Developer** and build impactful real-world products.
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-pratap-1a3aaa344/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+---
+
+> ⚡ *Consistency beats motivation — upgrading every single day 🚀*
