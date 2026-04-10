@@ -63,37 +63,16 @@
 
 ## 📊 GitHub Stats
 
-![Stars](https://img.shields.io/badge/Total%20Stars-148-yellow?style=for-the-badge&logo=github)
-![Commits](https://img.shields.io/badge/Total%20Commits%20(2024)-612-green?style=for-the-badge&logo=github)
-![PRs](https://img.shields.io/badge/Total%20PRs-34-blue?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/badge/Total%20Issues-19-red?style=for-the-badge&logo=github)
-![Contributed](https://img.shields.io/badge/Contributed%20To-21%20Repos-orange?style=for-the-badge&logo=github)
-
-&nbsp;
-
-![Streak](https://img.shields.io/badge/Current%20Streak-47%20days%20🔥-orange?style=for-the-badge&logo=github)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-89%20days-red?style=for-the-badge&logo=github)
-
-&nbsp;
-
-![Top Langs](https://img.shields.io/badge/JavaScript-45%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Top Langs](https://img.shields.io/badge/TypeScript-20%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Top Langs](https://img.shields.io/badge/Python-15%25-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Top Langs](https://img.shields.io/badge/CSS-12%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Top Langs](https://img.shields.io/badge/Other-8%25-gray?style=for-the-badge)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://img.shields.io/badge/🏆%20Commits-Gold-FFD700?style=for-the-badge)
-![Trophy](https://img.shields.io/badge/⭐%20Stars-Gold-FFD700?style=for-the-badge)
-![Trophy](https://img.shields.io/badge/🔀%20Pull%20Requests-Silver-C0C0C0?style=for-the-badge)
-![Trophy](https://img.shields.io/badge/🐛%20Issues-Silver-C0C0C0?style=for-the-badge)
-![Trophy](https://img.shields.io/badge/📁%20Repositories-Gold-FFD700?style=for-the-badge)
-![Trophy](https://img.shields.io/badge/👥%20Followers-Bronze-CD7F32?style=for-the-badge)
-![Trophy](https://img.shields.io/badge/🌟%20MultiLanguage-Gold-FFD700?style=for-the-badge)
-![Trophy](https://img.shields.io/badge/🔥%20Streak-Silver-C0C0C0?style=for-the-badge)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dhruvpratap2006&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpratap2006&layout=donut&theme=github_dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
